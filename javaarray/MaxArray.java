@@ -1,3 +1,5 @@
+package javaarray;
+
 import java.util.Scanner;
 
 public class MaxArray {
